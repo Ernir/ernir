@@ -3,7 +3,6 @@ on:
     - cron: '1 */12 * * *' # every 12 hours
   push:
     branches:
-      - profile-readme-stats
       - main
 jobs:
   publish:
