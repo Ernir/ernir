@@ -1,21 +1,8 @@
-Account age: **{{ ACCOUNT_AGE }}** years
+### Hi there 👋
 
-Pushed **{{ COMMITS }}** commits
+I'm working as a software developer at [Picnic](https://github.com/PicnicSupermarket).
 
-Opened **{{ ISSUES }}** issues
+I've been on Github for **{{ ACCOUNT_AGE }}** years, where I've pushed **{{ COMMITS }}** commits, 
+submitted **{{ PULL_REQUESTS }}** pull requests and reviewed **{{ CODE_REVIEWS }}** pull requests. 📈
 
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Own **{{ REPOSITORIES }}** repositories
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
-
-Top 4 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=5 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
