@@ -2,7 +2,7 @@
 
 I'm working as a software developer at [Picnic](https://github.com/PicnicSupermarket).
 
-I've been on Github for **12** years, where I've pushed **4303** commits, 
-submitted **1020** pull requests and reviewed **3263** pull requests. 📈
+I've been on Github for **12** years, where I've pushed **4304** commits, 
+submitted **1021** pull requests and reviewed **3265** pull requests. 📈
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
